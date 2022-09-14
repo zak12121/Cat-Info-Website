@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2e06c254.css",
+    "main.js": "/static/js/main.f4ed8837.js",
+    "static/js/787.52d1c508.chunk.js": "/static/js/787.52d1c508.chunk.js",
+    "static/media/catPic.png": "/static/media/catPic.b79f827a2d94209aa483.png",
+    "static/media/Wcat.png": "/static/media/Wcat.f09d42cb0694c6872eb0.png",
+    "static/media/Catlogo.png": "/static/media/Catlogo.1acc2a01331a5a083044.png",
+    "index.html": "/index.html",
+    "main.2e06c254.css.map": "/static/css/main.2e06c254.css.map",
+    "main.f4ed8837.js.map": "/static/js/main.f4ed8837.js.map",
+    "787.52d1c508.chunk.js.map": "/static/js/787.52d1c508.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e06c254.css",
+    "static/js/main.f4ed8837.js"
+  ]
+}
